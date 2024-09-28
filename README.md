@@ -15,9 +15,7 @@ How to install on teminal follow run command:
 3) npm imstall typescript
 
 4) npx tsc --init
-   
-6) npx tsc
 
-7) npm install readline-sync
+5) npm install readline-sync
 
 Change typescript to script by this command * npx tsc *

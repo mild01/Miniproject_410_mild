@@ -8,16 +8,14 @@ How to run system:
 
 How to install on teminal follow run command:
 
-npm init
+1) npm init
 
-npm i
+2) npm i
 
-npm imstall typescript
+3) npm imstall typescript
 
-npx tsc --init
+4) npx tsc --init
 
-npm install readline-sync
+5) npm install readline-sync
 
-Change typescript to script:
-
-npx tsc 
+Change typescript to script by this command * npx tsc *

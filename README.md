@@ -11,6 +11,7 @@ npx tsc --init
 npm install readline-sync
 
 
+
 Change typescript to script
 
 npx tsc

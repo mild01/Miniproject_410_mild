@@ -1,10 +1,6 @@
 How to run system:
 
-1) npm install -g http-server
-
-2) http-server
-
-3) last step, Ctrl+left click on ip
+Double click on index.html
 
 How to install on teminal follow run command:
 

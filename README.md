@@ -12,7 +12,7 @@ How to install on teminal follow run command:
 
 2) npm i
 
-3) npm imstall typescript
+3) npm install typescript
 
 4) npx tsc --init
 

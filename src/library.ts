@@ -1,5 +1,4 @@
 import { Book, Genre } from "./book";
-const open_dialog = false;
 
 export class Library {
   private books: Book[] = [];
